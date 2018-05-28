@@ -1,0 +1,3 @@
+#InstallKeybdHook
+Send {CapsLock}
+return
